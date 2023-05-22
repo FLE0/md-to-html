@@ -1,0 +1,37 @@
+img {
+    height: 100;
+}
+
+.parent {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem rem;
+}
+
+.child {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+}
+
+#divimg {
+    height: 30%;
+    margin-left: ;
+}
+  
+table{
+    border: solid
+}
+
+th {
+    border: solid;
+    background-color: gray;
+}
+
+td {
+    border: solid;
+}
+
+footer {
+    center
+}
